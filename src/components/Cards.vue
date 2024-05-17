@@ -184,7 +184,7 @@ h1 {
     width: 50px;
 }
 /* ***********************Media Queries*********************** */
-@media (max-width: 425px) {
+@media (max-width: 426px) {
     .main-div {
         display: block;
         text-align: center;
